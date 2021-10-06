@@ -1,8 +1,6 @@
 # Automatic_mailer
 
-Mayank hai bhen ka lauda
-
-STEPS TO USE THE AUTOMATIC MAILER:
+STEPS TO USE THE AUTOMATIC MAILER:-
 1) Create a spreadsheet using Google Sheets like the one shown in the link.
 https://docs.google.com/spreadsheets/d/11sWQaguMj5zxPvVys6WNhbDd-MDTjPrhpuH9ixwgA2g/edit?usp=sharing
 
