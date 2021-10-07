@@ -1,4 +1,4 @@
-# Automatic_mailer
+### Automatic_mailer
 
 STEPS TO USE THE AUTOMATIC MAILER:-
 1) Create a spreadsheet using Google Sheets like the one shown in the link.
